@@ -24,7 +24,7 @@ to use
 instead, potentially supplemented by a third-party monitoring solution,
 such as Prometheus.
 
-No new features will be added (including, but not limitted to, new sinks,
+No new features will be added (including, but not limited to, new sinks,
 enhancements to existing sinks, enhancements to sources, and enhancements
 to processing).
 
